@@ -8,3 +8,4 @@ charset_normalizer==3.4.1
 ipykernel==6.29.5
 mlxtend==0.23.3
 rapidfuzz==3.11.0
+opencv-python==4.11.0.86
